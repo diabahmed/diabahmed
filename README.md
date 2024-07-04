@@ -64,10 +64,6 @@ I'm a passionate fresh CSE graduate and aspiring Software Engineer based in Cair
 - 💻 Solved 250+ problems on various online coding platforms
 - 🌟 Consistently excelling in academic and professional endeavors
 
-## 🎬 Fun Fact
-
-When I'm not coding, I'm probably editing a film or brainstorming my next short movie idea. Ask me about my latest project!
-
 ## 📫 Let's Connect!
 
 Feel free to reach out for collaborations, opportunities, or just a chat about tech and films!
