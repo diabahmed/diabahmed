@@ -7,10 +7,10 @@
 
 ## 🚀 About Me
 
-I'm a passionate fresh CSE graduate and aspiring Software Engineer based in Cairo, Egypt. With a keen eye for innovation and a drive for excellence, I'm always pushing the boundaries of what's possible in tech. When I'm not coding, you might find me behind a camera, directing award-winning short films!
+I'm a passionate fresh CSE graduate and aspiring Software Engineer based in Berlin, Germany. With a keen eye for innovation and a drive for excellence, I'm always pushing the boundaries of what's possible in tech. When I'm not coding, you might find me behind a camera, directing award-winning short films!
 
 ### 🎯 Current Focus
-- 🎓 Completing my BSc in Computer Science and Engineering at German University in Cairo
+- 🎓 Completing my MSc in Computer Science and Engineering at German International University in Berlin
 - 🔍 Seeking challenging Software Engineering roles to make a meaningful impact
 - 🌱 Continuously learning and staying up-to-date with emerging technologies
 
