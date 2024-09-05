@@ -1,1 +1,1 @@
-i own a computer
+i code on a computer
